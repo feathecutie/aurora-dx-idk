@@ -22,4 +22,4 @@ RELEASE="$(rpm -E %fedora)"
 
 # systemctl enable podman.socket
 
-flatpak --system -y install --or-update org.libreoffice.LibreOffice
+# flatpak --system -y install --or-update org.libreoffice.LibreOffice
